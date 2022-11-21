@@ -1,2 +1,2 @@
 # Training
-Create Training set before an expiriment
+Create Training set.
