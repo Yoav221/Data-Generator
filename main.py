@@ -11,7 +11,7 @@ def main():
     # Inputs
     amount_input = int(amount_input)+1
     
-    with open(f"{SCENARIO_PATH}//Projects Documantation//Scenario_Information {new_name}.txt", mode='a') as f:
+    with open(f"{SCENARIO_PATH}.txt", mode='a') as f:
         get_txt_documantation('first', new_name)
         
     for x in range(0, amount_input):
