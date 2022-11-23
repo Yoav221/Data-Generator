@@ -1,2 +1,2 @@
 # Training
-Create Training set.
+Create sumulated trajectories for training.
